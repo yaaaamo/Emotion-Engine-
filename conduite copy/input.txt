@@ -1,0 +1,4 @@
+{"user_text":"Thank you, that helps a lot."}
+{"user_text":"I still feel terrible."}
+{"user_text":"Leave me alone."}
+{"user_text":"Okay, I will kill myself."}
